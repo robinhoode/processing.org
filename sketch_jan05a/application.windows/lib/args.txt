@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+sketch_jan05a
+sketch_jan05a.jar,core.jar,oscP5.jar,oscP5.jar

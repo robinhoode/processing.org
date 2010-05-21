@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+TheSnake
+TheSnake.jar,core.jar,PeasyCam.jar,guicomponents.jar,opengl.jar,jogl.jar,gluegen-rt.jar,opengl.jar,jogl.jar,gluegen-rt.jar,oscP5.jar,oscP5.jar

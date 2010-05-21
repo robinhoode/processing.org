@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+DrawPointsUpdated
+DrawPointsUpdated.jar,core.jar,opengl.jar,jogl.jar,gluegen-rt.jar

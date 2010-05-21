@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+ILoveYouTron
+ILoveYouTron.jar,core.jar,opengl.jar,jogl.jar,gluegen-rt.jar,opengl.jar,jogl.jar,gluegen-rt.jar,PeasyCam.jar,JSynClasses.jar,sonia_v2_9.jar

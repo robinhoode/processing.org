@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/ILoveYouTron.jar:$APPDIR/lib/core.jar:$APPDIR/lib/opengl.jar:$APPDIR/lib/jogl.jar:$APPDIR/lib/gluegen-rt.jar:$APPDIR/lib/opengl.jar:$APPDIR/lib/jogl.jar:$APPDIR/lib/gluegen-rt.jar:$APPDIR/lib/PeasyCam.jar:$APPDIR/lib/JSynClasses.jar:$APPDIR/lib/sonia_v2_9.jar" ILoveYouTron

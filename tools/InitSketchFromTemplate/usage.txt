@@ -1,0 +1,55 @@
+Version 0.2
+
+Place the InitFromTemplate folder inside your
+"sketchbook/tools/" folder.
+Folder structure should look like this:
+
+YourSketchbookRoot/tools/InitFromTemplate/tool/InitFromTemplate.jar (executable .jar tool)
+YourSketchbookRoot/tools/InitFromTemplate/tool/template.txt (default template)
+YourSketchbookRoot/tools/InitFromTemplate/src/InitFromTemplate.java (source code)
+YourSketchbookRoot/tools/InitFromTemplate/src/most_basic_template.txt (example template)
+YourSketchbookRoot/tools/InitFromTemplate/usage.txt (this file)
+YourSketchbookRoot/tools/InitFromTemplate/javadoc/ (contains all javadoc documentation)
+
+Run Processing and look for the menu item in the
+"Tools" menu, it should appear as: 
+"Initialize from 'template.txt'"
+
+Choose the tool and watch the P5 editor 
+get filled with the default template!
+
+You can edit the template file to
+have a custom basic set of functions to 
+begin with in P5 every time you use the tool.
+
+The template is read from disc every time
+so you can actually edit the file even
+while P5 is open and active.
+
+Send your feedback, feature requests,
+support questions and kind code suggestions to:
+0p0.music@gmail.com
+
+Thanks for downloading, using and sharing :)
+
+
+License:
+
+/* 
+ * InitFromTemplate P5 Tool.
+ * Initialize your sketches from a txt template
+ * Copyright (C) 2009 Jonathan Acosta (aka 0p0).
+
+ * InitFromTemplate P5 Tool is free software, you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * InitFromTemplate P5 Tool is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */

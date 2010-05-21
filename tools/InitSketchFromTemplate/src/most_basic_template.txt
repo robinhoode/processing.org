@@ -1,0 +1,30 @@
+/*
+ * This is the simplest template file
+ * to begin a sketch with, edit it at
+ * in any way you like :)
+ * to use this file rename it as "template.txt"
+ * and put it inside the tool folder.
+ */
+
+void setup() {
+  size(600,400);
+  smooth();
+}
+
+void draw() {
+  background(200);
+}
+
+
+// Includes the keyboard and mouse
+// most basic interactivity functions
+void keyPressed() {
+  /*
+  if (key == ESC) {
+    key =0; // catches and disables the ESC key
+  }
+  */
+}
+
+void mousePressed() {
+}
