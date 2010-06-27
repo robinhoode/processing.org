@@ -218,8 +218,9 @@ class TriangulatedSphere {
   
   void draw() {
     float soundLevel = LiveInput.getLevel();
-//    println("Sound level is " + soundLevel*10000/log(soundLevel*10000));
+    println("Sound level is " + soundLevel*10000/log(soundLevel*10000));
     scalar = soundLevel*500;
+//    scalar = random(10)*5;
     
     pushMatrix();
     beginShape(TRIANGLES);     
